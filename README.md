@@ -12,7 +12,11 @@ This project provides complete tooling for building privacy-preserving smart con
 - **Example Contracts**: Privacy-preserving voting system and reference implementations
 - **Automation Tools**: TypeScript-based CLI for generating standalone repositories
 - **Documentation**: GitBook-compatible auto-generated documentation
-- **Developer Guide**: Comprehensive guide for extending the system
+- **Developer Guide**: Comprehensive guide for extending the 
+
+[Video](https://youtu.be/DLv2NFMwsRY)
+
+[Live Demo](https://anonymous-product-feedback-system.vercel.app/)
 
 ## 🚀 Quick Start
 
